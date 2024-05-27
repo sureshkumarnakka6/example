@@ -19,5 +19,8 @@ public static void main(String [] args)
 	int arr[]= {45,28,258,451,44};
 	int[] nums=ob1.left(arr);
 	System.out.println(Arrays.toString(nums));
+	System.out.println("hiiii");
+	System.out.println("hiiii");
+	System.out.println("hello");
 }
 }
